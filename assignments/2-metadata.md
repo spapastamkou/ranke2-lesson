@@ -16,7 +16,7 @@ The search of historical sources for the purpose of a given research involves op
 
 [A card describing a record of the Library of Congress](https://commons.wikimedia.org/wiki/File:Library_of_Congress_Serials_Card_Catalog_in_the_John_Adams_Building_on_23_January_2025.jpg)
 
-![Homepage of the online catalog of the National Archives of the USA, screenshot, 21 May 2025](/images/2-nara-catalog-2025-05-21.jpg title="Homepage of the online catalog of the National Archives of the USA, screenshot, 21 May 2025")
+![Homepage of the online catalog of the National Archives of the USA, screenshot, 21 May 2025](/images/2-nara-catalog-2025-05-21.jpg "Homepage of the online catalog of the National Archives of the USA, screenshot, 21 May 2025")
 
 These descriptions may use norms, i.e. rules agreed by professional communities such as archivists and librarians, or they can be more flexible functional systems at the level of a community, team or an individual. Discoverability, in web environments, can also be ensured by full indexation of textual resources, even if the descriptive information is absent of not systematic - in this case, however, the inherent risk is decontextualization, alias fragmented information outside of its original context of creation/classification, and for this reason subject to caution to analyze and interpret.
 
