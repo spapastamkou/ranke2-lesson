@@ -27,14 +27,16 @@ The abundance of historical primary sources that are digitally available and acc
 In this assignment, you will work with a print postcard that is part of the [art event ephemera collection](https://digitalcollections.nypl.org/collections/michael-cummings-african-american-art-event-ephemera-collection) of [Michael A. Cummings](https://en.wikipedia.org/wiki/Michael_A._Cummings), US artist and collector of ephemeral art of Black and Latino artists. The collection is held at the Arthur Schomburg Center for Research in Black Culture, that is part of the New York Public Library (herafter NYPL). The postcard is only physically accessible in the cultural heritage institution that preserves it in New York, USA.
 > [Ephemera](https://en.wikipedia.org/wiki/Ephemera) is the generic term to define printed documents that escape the established categories of documentation subject to legal deposit that one finds in libraries (books, journals, etc). These documents were created to vehiculate information born to be obsolete: tracts, posters, pamphlets, postcards... As they often seize the *Zeitgeist* of an era, these materials can be valuable sources for historical research. 
 
-However, as the whole collection was digitized, the description of the digitized record is provided by the Digital Collections of the NYPL. Please check the description and explore the granularity of the information contained with the help of the questions we propose. In the end, you should be able to understand the implications for the the work of a historian. 
+However, as the whole collection was digitized, the description of the digitized record is provided by the Digital Collections of the NYPL. Please check the description and explore the granularity of the information contained with the help of the questions we propose. In the end, you should be able to understand the implications of the existence of (rich) metadata for the the work of a historian. 
 
 [Postcard announcing "In the Hollow of Your Hand, Slave Lullabies"](https://digitalcollections.nypl.org/items/c8f7da00-f0d8-013a-196c-0242ac110003).
 
-Observe the page of the description you have in front of you. 
-First of all, can you see what the postcard looks like? Is there an image of good quality that you can view, inspect, download, and eventually share (by including it in a publication, or by integrating it in a website)? In other words, there are various ways you are allowed to reuse an image, please distinguish what is possible in this case. If there are any restrictions imposed, lokk if there is a clear explanation for this.    
+The link above points towards the live page, if necessary please consult [an archived page available on Ranke.2 repository](/documents/Postcard_Slave_Lullabies_NYPL.htm) that you can open with your usual browser.  
 
-Now, forget the image of the postcard! It is time to check what information is available. 
+Observe the page of the description you have in front of you. 
+First of all, can you see what the postcard looks like? Is there an image that you can view and inspect online, download, and eventually share (by including it in a publication, or by integrating it in a website)? What are the ways you can access this object if you wish to work with it? <!-- No digitized image available, except something that looks like a thumbnail. A clear indication, visually, that the image can be seen at the Schomburg Center and a map is provided next to it. It is only possible to physically access the object if one wants to inspect it further (or have it reproduced?)-->
+
+Now, forget the image of the postcard! Even if it was available, you would still need to check the information that is available **about** the object to understand more, in case you needed to include it in your research. 
 
 First, spot the elements that allow you to **identify** the resource. Typically, these are the elements historians use to cite their sources, such as: 
 - Author or creator's name
