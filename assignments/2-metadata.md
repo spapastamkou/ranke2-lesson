@@ -7,6 +7,7 @@ title: Discovering, acceding to, and contextualizing historical data
 learning-objectives: 
  - Understand how availability of descriptive information on historical records allows discoverability and contextualization of sources 
  - understand what metadata are and different forms they can take
+ - understand the "findable, accessible, interoperable, reusable data" principles
 ---
 
 ### 2.a Finding and accessing historical data
@@ -35,30 +36,36 @@ Please check the description and explore the information contained with the help
 The link above points towards the live page on NYPL. If you have trouble accessing it, please consult [an archived page available on Internet Archive](https://web.archive.org/web/20230627212542/https://digitalcollections.nypl.org/items/c8f7da00-f0d8-013a-196c-0242ac110003). If necessary, you may use [an archived file of the page available on Ranke.2 repository](/documents/Postcard_Slave_Lullabies_NYPL.htm) - you first need to download this file, then open it with locally with your usual browser.  
 
 Observe carefully the page of the description you have in front of you. 
-You will notice that there is not an image that you can view and inspect online or download to study it carefully on your own environment. 
 
-* Why is there not a standalone, good quality image not available? Note than often times this kind of information is explained in a special section explaining the rights of use of a resource or with specific logos. 
+* Is an image of the postcard available to inspect and download in order to work closer with it? Note than often times this kind of information is explained in a special section explaining the rights of use of a resource or with specific logos. 
 * What information can you find about the ways you can access this object if you wish to work closely with it? 
 * Is there any way at all to see what the postcard looks like from your computer? 
  <!-- No digitized image available: there is though: something that looks like a thumbnail. A clear indication, visually, that the image can be seen at the Schomburg Center and a map is provided next to it. It is only possible to physically access the object if one wants to inspect it further (or have it reproduced?)-->
 
-Now, forget the image of the postcard! Available or not, you still need to check the information that is provided **about** its provenances and context of creation, in case you need to work with it as a source. 
+Now, forget the image of the postcard! Available or not, you still need to check the information that is provided **about** its context of creation: if you needed to work with it as a source, these elements help you to verify provenance, authenticity and judge the reliability of your source. 
 
-First, spot the elements that allow you to **identify** the resource and **contextualize its creation**. Typically, these are the elements historians use to cite their sources, such as the name of author or any type of creator involved, a title, a date (of creation, publication etc.), a collection of which the object may be part, the archive that houses the resource, an identification number... This list is not necessarily exhaustive, so be aware that you might find more or less of these elements. Check your findings and note more elements of identification, if any. 
+First, spot the elements that allow you to **identify** the resource and **contextualize its creation**. Typically, these are the chunks of information historians use to cite their sources, such as the name of author or any type of creator involved, a title, a date (of creation, publication etc.), a collection of which the object may be part, the archive that houses the resource, an identification number... This list is not necessarily exhaustive, so be aware that you might find more or less of these elements. Check your findings and note which elements of identification, if any. 
 
 <!--This information helps understand the origin and authenticate at least the provenance of the item. This is what we ausually do with our sources!!-->
-Creators, dates and places of production are already important information of context to help verify the provenance and authenticity of a source. But you can understand also a lot about context by the broader settings a resource may be part of. Pay special attention to the information about the collection the resource is part of. You can also check additional information, for example [the bibliographic description in the library's catalog](https://www.nypl.org/research/research-catalog/bib/b14968343) that is also provided in the page. If you are careful, you will notice that the latter gives also access to an ancient bibliographic description, which helps you track, even historicize, its bilbiographic descriptions. Keep in mind that these are high quality metadata, since they provide complementary levels of contextualization and allow you to track - and possibly historicize - the evolution of the description of the item. <!-- The bibliographic record of the postcard shows there was a selection to individualize this resource to make it findable, but the description actually is this if the book; the record of the collection, that is accessible from the identifier provided in the record of the digitized postcard,  -->
+Creators, dates and places of production are already important information of context to help verify the provenance and authenticity of a source. Besides these, pay special attention to the information about the collection the resource is part of: you can understand a lot about context by the broader environment a resource may be part of. Check additional information, for example [the bibliographic description in the library's catalog](https://www.nypl.org/research/research-catalog/bib/b14968343) that is also provided in the page about the collection the postcard is part of. 
+
 * Reading only the above description of the collection and eventually the Wikipedia article on the [Schomburg Center](https://en.wikipedia.org/wiki/Schomburg_Center_for_Research_in_Black_Culture) that holds the collection, what can you conclude about the broader environment of the postcard as source? How could you relate it to social and cultural evolutions in the United States in America in the 20th and 21st c.? 
 
-Finally read the [bibliographic description of the print postcard in the research catalog of the NYPL]()  
+If you are careful, you will observe that the notices of the library's catalog gives also access to ancient bibliographic descriptions. Keep in mind that these are high quality metadata, since they provide complementary levels of contextualization and allow you to track - and possibly historicize - the evolution of the description of the item. <!-- The bibliographic record of the postcard shows there was a selection to individualize this resource to make it findable, but the description actually is this if the book; the record of the collection, that is accessible from the identifier provided in the record of the digitized postcard,  -->
 
 
+Finally, try to search the same object, the postcard, in the library's catalog, using the title that is provided in the notice of the digitized item. The first result of your research should be the following [bibliographic description](https://www.nypl.org/research/research-catalog/bib/b14968343). Give it a quick read: you see that the record it describes is actually the book of which the postcard is part of. No specific information is provided about the postcard itself, although the book's description and keywords can give hints about the object from its collective setting. 
 
-the information about this resource is accessible event though the resource is either inaccessible in distance (its digital representation) or acvcessible under conditions (the physical item is accessible in the institution it is preserved if you are able to go there).  
+This means that if you did not know the postcard existed, and you relied only on the information provided in the catalog, you would have no means to find this object, unless taking a close look to the book and discovering among the other things your broader interest on the subject made you examine. 
+
+Do you understand now how, 
+* first, digitizing the postcard separately from the book it is part of 
+* second, describing it as a unit independently from the book
+* third, making this information openly accessible in the open web 
+made it eventually possible to find that this item exists, even if it is not immediately accessible online?  
 
 
-Findable, Accessible, Interoperable, Reusable
-
+## 2.b 
 
 - 
  
