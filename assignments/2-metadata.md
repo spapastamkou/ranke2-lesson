@@ -77,8 +77,12 @@ You may have to do the detective here! Try a reverse image search using a specia
 
 [Screenshot](/images/2-911-archive--photo-embedded-metadata-2025-06-05%20184848.jpg) of the downloaded file of the image from the September 11 Digital Archive.
 Inspect the metadata that are stored in the image file. To do so, you download the image from the archive, you save it where you prefer locally and open it with right click. Explore the information each tab offers. What we are interested is the tab Details and the information contained in Description and in Origin. There you can find interesting things! 
-Title, date the photo was taken, name of authot, and information on rights of use.  
+Title, date the photo was taken, name of authot, and information on rights of use. 
 
+Inspect the [collection form of the project HistorEsch Gesinn](https://historesch.lu/en/contribute/#contribute). 
+
+
+https://web.archive.org/web/20070706012926/http://www.thankyourescuers.com/photos-of-rescuers.html 
  
 ### 2.c
 Work with metadata in every day activities
@@ -97,3 +101,9 @@ Putnam, Lara. “The Transnational and the Text-Searchable: Digitized Sources an
 
     
     Baca, Murtha (ed). *Introduction to Metadata*. Los Angeles: Getty Research Institute, 2016 (third edition, first published in 1998) available at: https://www.getty.edu/publications/intrometadata/ 
+
+
+
+https://hurricanedigitalhumanities.wordpress.com/2018/11/01/the-september-11th-digital-archive/?utm_source=chatgpt.com
+https://townsendcenter.berkeley.edu/blog/growing-together-911-archives-and-web-20?utm_source=chatgpt.com
+https://www.historians.org/perspectives-article/digital-archive-collects-and-preserves-memories-of-9-11-april-2002/?utm_source=chatgpt.com
