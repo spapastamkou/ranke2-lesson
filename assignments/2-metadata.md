@@ -10,7 +10,7 @@ learning-objectives:
  - understand the "findable, accessible, interoperable, reusable data" principles
 ---
 
-### 2.a Finding and accessing historical data
+### 2.a Reading descriptions of historical data: the mediation of the archive
     
 The search of historical sources for the purpose of a given research involves operations of discovery and localizing for accessing, and eventually using (i.e. make a digital or other copy, take notes, etc to be able to analyze) historical materials of interest. An essential factor for discovering these materials, be they born-digital, digitized, or of any analog materiality, is their description in dedicated catalogs, that function as finding aids. 
 
@@ -66,8 +66,17 @@ made it eventually possible to find that this item exists, even if it is not imm
 
 
 ## 2.b 
+Now let's explore the inverse case: a digital resource being available without restriction but descriptive information missing. 
 
-- 
+Let's take the example of the [September 11 Digital Archive](https://911digitalarchive.org/). Initially [an academic-led project](https://rrchnm.org/portfolio-item/the-september-11-digital-archive/), this digital-born archive was created in the aftermath of the September 11 attacks in 2001 to serve as repository of digital materials (photos, emails, personal accounts...) and keep the record of the event. The project crowdsourced digital materials in a pre-social web era, meaning that at the time onine social networks like Facebook, Twitter or Instagram, that served later for people publishing first responses and reactions in times of crisis, did not exist yet. 
+
+Work with this photo randomly dicovered in the collection of photography of the archive: [Link to the photo of people looking the first tour of the World Trade Center collapsing](https://911digitalarchive.org/items/show/35743). 
+Explore the available information in the description and see if you can contextualize the image. What kind of information do you find? 
+
+You may have to do the detective here! Try a reverse image search using a specialized service that you can easily find on the web. Skip any result leading to an embedded publication using the image as illustration and focus on platforms that serve as repositories for users. Doing so, you will find [the same image published on Flickr](https://www.flickr.com/photos/8171202@N07/1507620222). Flickr is an online social network where users publish their photos 
+
+
+
  
 ### 2.c
 Work with metadata in every day activities
