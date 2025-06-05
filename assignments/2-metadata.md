@@ -75,7 +75,9 @@ Explore the available information in the description and see if you can contextu
 
 You may have to do the detective here! Try a reverse image search using a specialized service that you can easily find on the web. Skip any result leading to an embedded publication using the image as illustration and focus on platforms that serve as repositories for users. Doing so, you will find [the same image published on Flickr](https://www.flickr.com/photos/8171202@N07/1507620222). Flickr is an online social network where users publish their photos 
 
-
+[Screenshot](/images/2-911-archive--photo-embedded-metadata-2025-06-05%20184848.jpg) of the downloaded file of the image from the September 11 Digital Archive.
+Inspect the metadata that are stored in the image file. To do so, you download the image from the archive, you save it where you prefer locally and open it with right click. Explore the information each tab offers. What we are interested is the tab Details and the information contained in Description and in Origin. There you can find interesting things! 
+Title, date the photo was taken, name of authot, and information on rights of use.  
 
  
 ### 2.c
