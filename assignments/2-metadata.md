@@ -66,18 +66,23 @@ made it eventually possible to find that this item exists, even if it is not imm
 
 
 ## 2.b 
-Now let's explore the inverse case: a digital resource being available without restriction but descriptive information missing. 
+Now let's explore the inverse case: a digital resource being available without restriction but the descriptive information is missing. 
 
 Let's take the example of the [September 11 Digital Archive](https://911digitalarchive.org/). Initially [an academic-led project](https://rrchnm.org/portfolio-item/the-september-11-digital-archive/), this digital-born archive was created in the aftermath of the September 11 attacks in 2001 to serve as repository of digital materials (photos, emails, personal accounts...) and keep the record of the event. The project crowdsourced digital materials in a pre-social web era, meaning that at the time onine social networks like Facebook, Twitter or Instagram, that served later for people publishing first responses and reactions in times of crisis, did not exist yet. 
 
-Work with this photo randomly dicovered in the collection of photography of the archive: [Link to the photo of people looking the first tour of the World Trade Center collapsing](https://911digitalarchive.org/items/show/35743). 
-Explore the available information in the description and see if you can contextualize the image. What kind of information do you find? 
+Work with this photo randomly discovered in the collection of photography of the archive: [Link to the photo of people looking the first tour of the World Trade Center collapsing](https://911digitalarchive.org/items/show/35743). 
 
-You may have to do the detective here! Try a reverse image search using a specialized service that you can easily find on the web. Skip any result leading to an embedded publication using the image as illustration and focus on platforms that serve as repositories for users. Doing so, you will find [the same image published on Flickr](https://www.flickr.com/photos/8171202@N07/1507620222). Flickr is an online social network where users publish their photos 
+* Explore what information is available in the description. What do you find? Can you contextualize and authenticate the image with the existing information - where and when the photo was taken, and by whom?   
+
+You may have to play the detective here! Try a reverse image search using a specialized service that you can easily find on the web. Skip any result leading to an embedded publication of the image, i.e. when it is used as illustration in a text (this is a secondary use we are not interested in here!) and focus on platforms that serve as repositories for users. Doing so, you will find [the same image published on Flickr](https://www.flickr.com/photos/8171202@N07/1507620222). 
+> [Flickr](https://en.wikipedia.org/wiki/Flickr) is an online social network founded in 2004, where users publish their photos and make them available to other users. The uses of the network are various, but since the early days of its existence it served for communicating and sharing information in times of crisis, such as the 2005 terrorist attacks in London.    
 
 [Screenshot](/images/2-911-archive--photo-embedded-metadata-2025-06-05%20184848.jpg) of the downloaded file of the image from the September 11 Digital Archive.
+
+![Embedded metadata of the downloaded file of the image from the September 11 Digital Archive, 21 May 2025, screenshot, 5 June 2025](/images/2-911-archive-photo-embedded-metadata-2025-06-05.jpg "Screenshot of the downloaded file of the image from the September 11 Digital Archive 5 June 2025") 
+
 Inspect the metadata that are stored in the image file. To do so, you download the image from the archive, you save it where you prefer locally and open it with right click. Explore the information each tab offers. What we are interested is the tab Details and the information contained in Description and in Origin. There you can find interesting things! 
-Title, date the photo was taken, name of authot, and information on rights of use. 
+Title, date the photo was taken, name of author, and information on rights of use. 
 
 Inspect the [collection form of the project HistorEsch Gesinn](https://historesch.lu/en/contribute/#contribute). 
 
