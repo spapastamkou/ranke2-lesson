@@ -103,8 +103,8 @@ When information is available in these sections, it is not automatically generat
 * Given the above, what elements of context are you likely to confirm now about the photo? 7
 
 * Now think: if you witnessed an exceptional event and made a photo of it in real time: 
-* Would you share this photo? 
-* If yes, in what way: email, website, an online social network, submit to an archive, other...
+    * Would you share this photo? 
+    * If yes, in what way: email, website, an online social network, submit to an archive, other...
 <!--Inspect the [collection form of the project HistorEsch Gesinn](https://historesch.lu/en/contribute/#contribute).--> 
 
 
@@ -114,7 +114,8 @@ When information is available in these sections, it is not automatically generat
 
 *Authorship/creation/contribution - tbc* 
 
-Check this record description of an illustration of a Persian manuscript of the 17th century held at and digitized by the British Library: [URL for illustration of Nizami's Khamsa](https://imagesonline.bl.uk/asset/1953) 
+Check the following record descriptions or descriptive resources:  
+of an illustration of a Persian manuscript of the 17th century held at and digitized by the British Library: [URL for illustration of Nizami's Khamsa](https://imagesonline.bl.uk/asset/1953) 
 
 ![Iskandar celebrating his victory over the Zangis (Habashis): illustration of Nizami's Khamsa ('Five Poems'), 1665-1667](/images/2-britishlibrary-add_6613_f208r.jpg "Iskandar celebrating his victory over the Zangis (Habashis): illustration of Nizami's Khamsa ('Five Poems'), 1665-1667. From the British Library archive")
 
