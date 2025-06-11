@@ -105,6 +105,7 @@ When information is available in these sections, it is not automatically generat
 * Now think: if you witnessed an exceptional event and made a photo of it in real time: 
     * Would you share this photo? 
     * If yes, in what way: email, website, an online social network, submit to an archive, other...
+    * What are the possible means you could use to describe it? 
 <!--Inspect the [collection form of the project HistorEsch Gesinn](https://historesch.lu/en/contribute/#contribute).--> 
 
 
@@ -112,20 +113,26 @@ When information is available in these sections, it is not automatically generat
  
 ### 2.c Creating metadata: the standard and the personal (and the third way) 
 
-*Authorship/creation/contribution - tbc* 
-
-Check the following record descriptions or descriptive resources:  
-of an illustration of a Persian manuscript of the 17th century held at and digitized by the British Library: [URL for illustration of Nizami's Khamsa](https://imagesonline.bl.uk/asset/1953) 
-
-![Iskandar celebrating his victory over the Zangis (Habashis): illustration of Nizami's Khamsa ('Five Poems'), 1665-1667](/images/2-britishlibrary-add_6613_f208r.jpg "Iskandar celebrating his victory over the Zangis (Habashis): illustration of Nizami's Khamsa ('Five Poems'), 1665-1667. From the British Library archive")
 
 
 
 
 
-<!--Generating metadata to enable source criticism - important aspect of Impresso project - see with Marten of possible to integrate an example here?-->
+
 
 ### 2.d On authenticity: who is the author? 
+
+*Authorship/creation/contribution - tbc* 
+
+Check the following record descriptions or descriptive resources and focus on the creator(s) and date of creation - understand these in a large sense and be aware you may find more than one, with different roles,   
+
+* An illustration of a Persian manuscript of the 17th century held at and digitized by the British Library: [URL for illustration of Nizami's Khamsa](https://imagesonline.bl.uk/asset/1953)
+* A photograph from the First World War available on Europeana: [James Gerrard Boyd on horse](https://www.europeana.eu/en/item/2020601/https___1914_1918_europeana_eu_contributions_16763_attachments_177965) 
+
+<iframe src="https://embed.europeana.eu/2020601/https___1914_1918_europeana_eu_contributions_16763_attachments_177965" width="2250" height="3000" frameborder="0"></iframe>
+
+<!--![Iskandar celebrating his victory over the Zangis (Habashis): illustration of Nizami's Khamsa ('Five Poems'), 1665-1667](/images/2-britishlibrary-add_6613_f208r.jpg "Iskandar celebrating his victory over the Zangis (Habashis): illustration of Nizami's Khamsa ('Five Poems'), 1665-1667. From the British Library archive") -->
+
 
 ### Reading/viewing suggestions for assignment 2 
 
