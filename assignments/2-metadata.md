@@ -113,7 +113,9 @@ When information is available in these sections, it is not automatically generat
  
 ### 2.c Creating metadata: the standard and the personal (and the third way) 
 
+* A photo of the collection "Belleville Fire Department" dating from the beginning of the 1990s, preserved by the Community Archives of Belleville and Hastings County (Belleville, Ontario, Canada) and exposed freely on Flickr Commons. [URL](https://www.flickr.com/photos/cabhc/) 
 
+Inspect the tags. (to see how different they are )
 
 
 
@@ -124,12 +126,18 @@ When information is available in these sections, it is not automatically generat
 
 *Authorship/creation/contribution - tbc* 
 
-Check the following record descriptions or descriptive resources and focus on the creator(s) and date of creation - understand these in a large sense and be aware you may find more than one, with different roles,   
+Check the following record descriptions or descriptive resources and focus on the creator(s) and date of creation - be aware you may find various terms and multiple roles in each case (for example: a date of creation can be a date of publication in one case but a date a resource was posted on social media, in another case).
+
 
 * An illustration of a Persian manuscript of the 17th century held at and digitized by the British Library: [URL for illustration of Nizami's Khamsa](https://imagesonline.bl.uk/asset/1953)
 * A photograph from the First World War available on Europeana: [James Gerrard Boyd on horse](https://www.europeana.eu/en/item/2020601/https___1914_1918_europeana_eu_contributions_16763_attachments_177965) 
+* A meme of your choice from the [Meme Wall scholar-led project](https://memes.sucho.org/) - in this case you need to check not only the information that appears on the bottom left of the web page once you click on a meme image but also the About page and the CSV file that you download there. 
 
+
+
+<!--
 <iframe src="https://embed.europeana.eu/2020601/https___1914_1918_europeana_eu_contributions_16763_attachments_177965" width="2250" height="3000" frameborder="0"></iframe>
+-->
 
 <!--![Iskandar celebrating his victory over the Zangis (Habashis): illustration of Nizami's Khamsa ('Five Poems'), 1665-1667](/images/2-britishlibrary-add_6613_f208r.jpg "Iskandar celebrating his victory over the Zangis (Habashis): illustration of Nizami's Khamsa ('Five Poems'), 1665-1667. From the British Library archive") -->
 
