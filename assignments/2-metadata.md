@@ -110,14 +110,21 @@ When information is available in these sections, it is not automatically generat
 
 <!--https://web.archive.org/web/20070706012926/http://www.thankyourescuers.com/photos-of-rescuers.html-->  
  
-### 2.c 
+### 2.c Creating metadata: the standard and the personal (and the third way) 
+
+*Authorship/creation/contribution - tbc* 
+
+Check this record description of an illustration of a Persian manuscript of the 17th century held at and digitized by the British Library: [URL for illustration of Nizami's Khamsa](https://imagesonline.bl.uk/asset/1953) 
+
+![Iskandar celebrating his victory over the Zangis (Habashis): illustration of Nizami's Khamsa ('Five Poems'), 1665-1667](/images/2-britishlibrary-add_6613_f208r.jpg "Iskandar celebrating his victory over the Zangis (Habashis): illustration of Nizami's Khamsa ('Five Poems'), 1665-1667. From the British Library archive")
+
 
 
 
 
 <!--Generating metadata to enable source criticism - important aspect of Impresso project - see with Marten of possible to integrate an example here?-->
 
-### 2.d Creating metadata
+### 2.d On authenticity: who is the author? 
 
 ### Reading/viewing suggestions for assignment 2 
 
