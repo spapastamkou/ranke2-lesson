@@ -115,8 +115,10 @@ When information is available in these sections, it is not automatically generat
 
 * A photo of the collection "Belleville Fire Department" dating from the beginning of the 1990s, preserved by the Community Archives of Belleville and Hastings County (Belleville, Ontario, Canada) and exposed freely on Flickr Commons. [URL](https://www.flickr.com/photos/cabhc/) 
 
-Inspect the tags. (to see how different they are )
+Inspect the tags. (to see how different they are from controlled vocabularies and initiate to folksonomies). Click on one and observe what this does (creates a network of resources tagged with the same word with different provenance and different status but with thematic affinity)
 
+
+Now compare with the bibliographic description you worked with in 2.a: [bibliographic description](https://www.nypl.org/research/research-catalog/bib/b14968343). Observe what appears in the category "Subject". 
 
 
 
