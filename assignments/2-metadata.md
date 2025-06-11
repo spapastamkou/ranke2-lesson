@@ -65,7 +65,7 @@ Do you understand now how,
 made it eventually possible to find that this item exists, even if it is not immediately accessible online?  
 
 
-## 2.b 
+## 2.b Digital forensics: data abundance, metadata scarcity 
 Now let's explore the inverse case: a digital resource being available without restriction but the descriptive information is missing. 
 
 Let's take the example of the [September 11 Digital Archive](https://911digitalarchive.org/). Initially [an academic-led project](https://rrchnm.org/portfolio-item/the-september-11-digital-archive/), this digital-born archive was created in the aftermath of the September 11 attacks in 2001 to serve as repository of digital materials (photos, emails, personal accounts...) and keep the record of the event. The project crowdsourced digital materials in a pre-social web era, meaning that at the time onine social networks like Facebook, Twitter or Instagram, that served later for people publishing first responses and reactions in times of crisis, did not exist yet. 
@@ -77,24 +77,47 @@ Work with this photo randomly discovered in the collection of photography of the
 You may have to play the detective here! Try a reverse image search using a specialized service that you can easily find on the web. Skip any result leading to an embedded publication of the image, i.e. when it is used as illustration in a text (this is a secondary use we are not interested in here!) and focus on platforms that serve as repositories for users. Doing so, you will find [the same image published on Flickr](https://www.flickr.com/photos/8171202@N07/1507620222). 
 > [Flickr](https://en.wikipedia.org/wiki/Flickr) is an online social network founded in 2004, where users publish their photos and make them available to other users. The uses of the network are various, but since the early days of its existence it served for communicating and sharing information in times of crisis, such as the 2005 terrorist attacks in London.
 
-Inspect the image. Here too, you find descriptive information. It may not look exactly like the kind of the information available in an archive or library catalog, and this is normal: Flickr is not a patrimonial insitution that preserves historical records, it is a corporate business making availamble a social network, enabling to publish specific content. However, it also provides a repository and needs to keep its resources organized. Thus, it also needs to organize information, it just does it in another purpose. However, there are still common points with an archive: for example, you can find information about the creator, various dates, tags, and rights of use. <!--five this here in details? Keep it to build an exercise comparing a notice of flickr with the notice of NYPL?-->  
+Inspect the web page of the image on Flickr. Here too, you find descriptive information. It may not look exactly like the kind of the information available in an archive or library catalog, and this is normal: Flickr is not a patrimonial insitution that preserves historical records, it is a corporate business that makes available a social networking platform, enabling to publish specific content: photos. However, its architecture also provides a repository that needs to keep its resources organized. Thus, despite the different purpose, it still has universal needs of information organisation. Hence the common points with an archive: for example, you can find information about the creator, various dates, tags, which is a form of indexation, and precisions on rights of use. <!--have this here in details? Keep it to build an exercise comparing a notice of flickr with the notice of NYPL?--> 
+
+* Compare the information you find on the image on the Flickr web page, directly or indirectly, about: 
+    * who appears as author of the photo
+    * where the photo was taken
+    * when the photo was taken
+    * what it represents
+    * any collection the photo may be part of
+
+By combining the two sources of the photo, the September 11 Digital Archive and Flickr, do you think you have more information that helps you identify and contextualize this photo? Do you still have missing pieces in the puzzle or unsure information? What are these? For example, how can you be sure about the author and the date the photo was taken? The context of the web favors reuse and remediations, for example photos are posted and reposted frequently by different social media accounts: sometimes the user posting is the creator but often they are not.  
+
+There is one more source of information that could be useful in such cases or in general: the embedded metadata that are automatically generated as soon as a digital file is created in a device. These metadata provide a combination of information about the structure, the technical and the cration context of a file. For example, if you inspect the file of a photo taken with your mobile phone, you may find information about the origin of the image, including the author and the date taken, decriptions of its technical caracteristics as well as those of the device used, geographical coordinates, etc. This information is not always complete, but it may prove useful when it is there. 
+
+Let us now inspect the file of the image we are working with from the September 11 Digital Archive. You will find below a screenshot taken once the image was saved from the archive to a personal computer and then opened in the system (running on Windows 11) with right click. You can follow the description based on the screenshot but you can repeat the manipulation as described below.     
 
 [Screenshot](/images/2-911-archive--photo-embedded-metadata-2025-06-05%20184848.jpg) of the downloaded file of the image from the September 11 Digital Archive.
 
-![Embedded metadata of the downloaded file of the image from the September 11 Digital Archive, 21 May 2025, screenshot, 5 June 2025](/images/2-911-archive-photo-embedded-metadata-2025-06-05.jpg "Screenshot of the downloaded file of the image from the September 11 Digital Archive 5 June 2025") 
+![Embedded metadata of the downloaded file of the image from the September 11 Digital Archive, screenshot, 5 June 2025](/images/2-911-archive-photo-embedded-metadata-2025-06-05.jpg "Screenshot of the downloaded file of the image from the September 11 Digital Archive, 5 June 2025") 
 
-Inspect the metadata that are stored in the image file. To do so, you download the image from the archive, you save it where you prefer locally and open it with right click. Explore the information each tab offers. What we are interested is the tab Details and the information contained in Description and in Origin. There you can find interesting things! 
-Title, date the photo was taken, name of author, and information on rights of use. 
+Inspect the metadata that are stored in the image file. To do so, you download the image from the archive, you save it where you prefer locally and open it with right click. Explore the information each tab offers. The first tab "General" contains information that was automatically generated at the moment the file was created locally in your computer's system. What is much more interesting in our case, is the tab "Details" and the information it contains in the "Description" and "Origin" sections. There you can find interesting things such as the title, author, date taken, and rights of use. 
 
-Inspect the [collection form of the project HistorEsch Gesinn](https://historesch.lu/en/contribute/#contribute). 
+When information is available in these sections, it is not automatically generated, but manually added by the creator of the file or someone who has rights to do so, using dedicated computer built-in or software tools. Unless there is a sort of digital certificate, this information remains subject to caution as for its integrity. However, in this case, we can rely on the mediation of the archive: because this image file is part of an archive it is possible to identify, we can trust the integrity of information added about the provenance and authenticity of the photo.      
+
+* Given the above, what elements of context are you likely to confirm now about the photo? 7
+
+* Now think: if you witnessed an exceptional event and made a photo of it in real time: 
+* Would you share this photo? 
+* If yes, in what way: email, website, an online social network, submit to an archive, other...
+<!--Inspect the [collection form of the project HistorEsch Gesinn](https://historesch.lu/en/contribute/#contribute).--> 
 
 
-https://web.archive.org/web/20070706012926/http://www.thankyourescuers.com/photos-of-rescuers.html 
+<!--https://web.archive.org/web/20070706012926/http://www.thankyourescuers.com/photos-of-rescuers.html-->  
  
-### 2.c
-Work with metadata in every day activities
+### 2.c 
+
+
+
 
 <!--Generating metadata to enable source criticism - important aspect of Impresso project - see with Marten of possible to integrate an example here?-->
+
+### 2.d Creating metadata
 
 ### Reading/viewing suggestions for assignment 2 
 
